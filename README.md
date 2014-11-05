@@ -1,7 +1,12 @@
 androidFlashLight
 =================
 
-Simple android flash light - working 05-NOV-2014
+<h4>Simple android flash light - working 05-NOV-2014</4>
+
+<h1>Code</h1>
+This is just and app i created while taking an android class at school. I only made this because i am tierd
+of all the advertising and be asked to rate an app.. It is nothing special with this app. Some of the code
+have i found on different guides out there.
 
 <h1>Installation</h1>
 <p><b>Step 1</b> Click on flashlight.apk and "View Raw" that should download the apk.</p>
